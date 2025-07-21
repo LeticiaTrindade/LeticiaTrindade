@@ -1,7 +1,37 @@
-### Olá!
+# Olá, seja bem-vindo(a)! Este é o meu espaço no GitHub. 🩷
+🎓 Estudante de Licenciatura em Computação e formada em Computação Gráfica(IFPE)
 
-Seja bem-vindo(a) ao meu perfil no Github!
-###### 😊 Pronome: Ela/Dela
+💻 Fullstack em formação | Futura Pentester
+
+## ✨ Sobre mim
+Meu primeiro contato com a programação aconteceu em 2019, no curso técnico em Computação Gráfica no IFPE, onde aprendi a importância da lógica e da criatividade na área de tecnologia. Desde então, venho trilhando um caminho de constante aprendizado, acreditando que a tecnologia pode transformar vidas — começando pela minha.
+
+Com experiência como professora de programação e coordenadora pedagógica, descobri que amo ensinar e aprender ao mesmo tempo. Hoje, atuo como estagiária Front-End na V-Lab, onde estou aprofundando meus conhecimentos em HTML, CSS, JavaScript e React, enquanto sigo meus estudos para me tornar uma Fullstack Developer.
+
+No futuro, pretendo migrar para a área de Segurança da Informação, com foco em Pentest, unindo minha paixão por resolver problemas, entender sistemas e contribuir para um ambiente digital mais seguro.
+
+## 🎯 Áreas de Interesse
+ * Desenvolvimento Web (Front-End e Back-End)
+
+ * Segurança da Informação (Pentest)
+
+ * Automação e otimização de processos
+
+ * Educação e tecnologia acessível
+
+## 📚 Estudando no momento
+ * HTML, CSS e JavaScript avançado
+
+ * React
+
+ * Git e GitHub
+
+ * Fundamentos de Redes e Linux (iniciando para Pentest)
+
+## 🚀 Objetivo
+Transformar a forma como as pessoas interagem com a tecnologia, criando aplicações úteis, acessíveis e seguras, enquanto continuo minha evolução como desenvolvedora e futura pentester.
+
+### “A tecnologia é uma ponte: ela conecta sonhos a possibilidades.” 🌱
 
 
 
