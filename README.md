@@ -4,42 +4,34 @@
 💻 Fullstack em formação | Futura Pentester
 
 ## ✨ Sobre mim
-Meu primeiro contato com a programação aconteceu em 2019, no curso técnico em Computação Gráfica no IFPE, onde aprendi a importância da lógica e da criatividade na área de tecnologia. Desde então, venho trilhando um caminho de constante aprendizado, acreditando que a tecnologia pode transformar vidas — começando pela minha.
+Meu primeiro contato com a programação foi em 2019, no curso técnico de Computação Gráfica no IFPE, onde aprendi lógica e criatividade em tech. Hoje, apaixonada por desenvolvimento e segurança, atuo como Front-End na Viitra no projeto de Inteligência Artificial da REDU, após finalizar meu estágio na v-Lab (projeto PIBIOTEC: https://www.pibiotec.com.br/). Faço freelas para a plataforma Avamec e sou aluna do programa Hackers do Bem.
 
-Com experiência como professora de programação e coordenadora pedagógica, descobri que amo ensinar e aprender ao mesmo tempo. Hoje, atuo como estagiária Front-End na V-Lab, onde estou aprofundando meus conhecimentos em HTML, CSS, JavaScript e React, enquanto sigo meus estudos para me tornar uma Fullstack Developer.
-
-No futuro, pretendo migrar para a área de Segurança da Informação, com foco em Pentest, unindo minha paixão por resolver problemas, entender sistemas e contribuir para um ambiente digital mais seguro.
+Com experiência como professora de programação e coordenadora pedagógica, amo ensinar e aprender simultaneamente. 
+No futuro, migro para Segurança da Informação, focando em Pentest, unindo resolução de problemas e ambientes digitais seguros.
 
 ## 🎯 Áreas de Interesse
- * Desenvolvimento Web (Front-End e Back-End)
+* Desenvolvimento Web (Front-End e Back-End)
 
- * Segurança da Informação (Pentest)
+* Segurança da Informação (Pentest)
 
- * Automação e otimização de processos
+* Automação e otimização de processos
 
- * Educação e tecnologia acessível
+* Educação e tecnologia acessível
 
-## 📚 Estudando no momento
- * HTML, CSS e JavaScript avançado
+* Inteligência Artificial
 
- * React
+## 🚀 Projetos e Experiências
+* Viitra/REDU: Front-End em projeto de IA (atual).
 
- * Git e GitHub
+* v-Lab/PIBIOTEC: Estágio concluído (https://www.pibiotec.com.br/).
 
- * Fundamentos de Redes e Linux (iniciando para Pentest)
+* Freelancer Avamec: Desenvolvimento para plataforma educacional.
 
-## 🚀 Objetivo
-Transformar a forma como as pessoas interagem com a tecnologia, criando aplicações úteis, acessíveis e seguras, enquanto continuo minha evolução como desenvolvedora e futura pentester.
+* Hackers do Bem: Programa de impacto em tech.
 
-### “A tecnologia é uma ponte: ela conecta sonhos a possibilidades.” 🌱
+* Objetivo: Criar apps úteis, acessíveis e seguras, evoluindo como dev e pentester.
 
-
-
- 
-<div>
-  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaTrindade&layout=compact&langs_count=7&theme=buefy"/>
-</div>
+“A tecnologia é uma ponte: conecta sonhos a possibilidades.” 🌱
  
   <div style="display: inline_block"><br>
   <img align="left" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
